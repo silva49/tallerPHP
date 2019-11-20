@@ -1,0 +1,35 @@
+<html>
+<head>
+<title>TIENDA DE ROPA EL MOCHO</title>
+</head>
+<body>
+<font face="Algerian"</font>
+<H1><center><p style="color:red";>INICIO 
+
+<header>
+<nav>
+<h6>la tienda de ropa el mocho es una empresa dedicada a la venta online de ropa. Nuestro objetivo es ofrecer la moda más actual a los mejores precios.
+Tenemos a su disposición una gran variedad de productos, los cuales son renovados cada temporada para dar siempre las prendas más trendy.
+Tenemos un equipo que está dedicado a satisfacer tus necesidades y que te contestará a tus dudas con la mayor brevedad posible. 
+Para una mejor comunicación puedes contactar con nosotros a través de WhatsApp o mensaje privado de Facebook y tan sólo en unos minutos tu duda será resuelta,tambien tenemos varios puntos de venta fisicos en la ciudad.</h6>
+
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YOdfkyNIOxg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
+<h6>Aqui puedes ver uno de los puntos de venta de nuestro negocio</h6>
+
+
+
+
+<ul id=”button”>
+ <li><a href="index.php">REGRESAR</a></li>
+ <li><a href="Pagina3">Sobre nosotros</a></li>
+ <li><a href="Pagina4">Productos</a></li>
+ <li><a href="Pagina5">Contacto</a></li>
+ </ul>
+</nav>
+
+
+</body>
+</html>

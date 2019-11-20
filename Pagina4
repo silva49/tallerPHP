@@ -1,0 +1,36 @@
+<html>
+<head>
+<title>TIENDA DE ROPA EL MOCHO</title>
+</head>
+<body>
+<font face="Algerian"</font>
+<H1><center><p style="color:red";>PRODUCTOS
+
+<header>
+<nav>
+<img src="descarga1.jpg"widht="300" height="300"/>
+<img src="images.jpg"widht="300" height="300"/>
+<img src="descarga2.jpg"widht="300" height="300"/>
+<img src="zara.jpg"widht="300" height="300"/>
+<img src="tenis.jpg"widht="300" height="300"/>
+</nav>
+
+
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sZos4E3Qu5w" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
+
+
+
+<ul id=”button”>
+ <li><a href="index.php">REGRESAR</a></li>
+<li><a href="Pagina2">INICIO</a></li>
+ <li><a href="Pagina3">SOBRE NOSOTROS</a></li>
+ <li><a href="Pagina5">Contacto</a></li>
+ </ul>
+
+
+
+</body>
+</html>
